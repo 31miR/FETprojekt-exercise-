@@ -44,7 +44,7 @@ body{
 }
 
 .left {
-    flex: 0 1 400px;
+    flex: 0 1 600px;
 }
 
 .darkParagraphTitle {
@@ -56,4 +56,14 @@ body{
 .darkParagraph {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.blueButton {
+    border-radius: 10px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    width: 100px;
+    height: 35px;
+    border-color: #3882F6;
+    border-style: hidden;
 }

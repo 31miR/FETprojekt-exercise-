@@ -48,7 +48,7 @@ body{
 }
 
 .darkParagraphTitle {
-    font-weight: exstra-bold;
+    font-weight: extra-bold;
     font-size: 48px;
     color: #F9FAF8;
 }
@@ -66,4 +66,34 @@ body{
     height: 35px;
     border-color: #3882F6;
     border-style: hidden;
+}
+
+.whiteSectionTitle {
+    font-size: 38px;
+    text-align: center;
+    color: #1F2937;
+    font-weight: extra-bold;
+}
+
+.examples {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.example {
+    max-width: 150px;
+    text-align: center;
+}
+
+.exampleImage {
+    width: 150px;
+    height: 15opx;
+    object-fit: cover;
+    border-color: #3882F6;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 3px;
 }

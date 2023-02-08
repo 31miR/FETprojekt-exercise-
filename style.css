@@ -97,3 +97,8 @@ body{
     border-style: solid;
     border-width: 3px;
 }
+
+.whiteSection {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
